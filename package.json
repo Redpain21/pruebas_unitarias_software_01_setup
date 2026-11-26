@@ -1,0 +1,24 @@
+{
+  "name": "pruebas_unitarias_software_01_setup",
+  "version": "1.0.0",
+  "description": "Setup inicial con Jest para pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redpain21/pruebas_unitarias_software_01_setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Redpain21/pruebas_unitarias_software_01_setup/issues"
+  },
+  "homepage": "https://github.com/Redpain21/pruebas_unitarias_software_01_setup#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
